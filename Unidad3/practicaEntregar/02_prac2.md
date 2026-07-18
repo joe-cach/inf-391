@@ -1,4 +1,4 @@
-## 9. Ejercicio Combinado: Pipeline CI/CD "OmniMarket" (Variables Continuas)
+## 2. Ejercicio Combinado: Pipeline CI/CD "OmniMarket" (Variables Continuas)
 
 **Escenario:** El equipo de Ingeniería de Software de **OmniMarket** necesita simular la latencia y los tiempos operativos de su *Pipeline* de Despliegue Continuo (CI/CD). Como estamos midiendo el "tiempo" (que puede tener infinitos decimales), utilizaremos **tres distribuciones continuas** encadenadas para simular el ciclo de vida de 1,000 *commits* de código:
 

@@ -1,4 +1,4 @@
-## 8. Ejercicio Combinado: E-commerce "OmniMarket Suite"
+## 1. Ejercicio Combinado: E-commerce "OmniMarket Suite"
 
 **Escenario:** El *Load Balancer* de una plataforma de comercio electrónico ficticia llamada **OmniMarket** procesa el tráfico de miles de usuarios concurrentes. Por cada sesión que ingresa al sistema, simularemos tres comportamientos independientes que dictan la carga de la infraestructura:
 
